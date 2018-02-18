@@ -1,12 +1,11 @@
 name: PeacefulSpawn
-main: LDX\PeacefulSpawn\Main
-version: 2.5
+main: brexmania123\PeacefulSpawn\Main
+version: 1.0
 api:
- - 3.0.0
  - 3.0.0-ALPHA11
 load: POSTWORLD
-author: "LDX"
-website: "https://github.com/LDX-MCPE/PeacefulSpawn"
+author: "brexmania123"
+website: "https://github.com/brexmania123/PeacefulSpawn"
 commands:
   ps:
     description: Toggles PeacefulSpawn's protection
