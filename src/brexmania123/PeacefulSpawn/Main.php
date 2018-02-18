@@ -1,5 +1,5 @@
 <?php
-namespace LDX\PeacefulSpawn;
+namespace brexmania123\PeacefulSpawn;
 
 use pocketmine\math\Vector3;
 use pocketmine\command\Command;
