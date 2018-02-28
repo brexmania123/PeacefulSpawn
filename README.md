@@ -5,9 +5,6 @@
 [![](https://poggit.pmmp.io/shield.state/PeacefulSpawn)](https://poggit.pmmp.io/p/PeacefulSpawn)
 <a href="https://poggit.pmmp.io/p/PeacefulSpawn"><img src="https://poggit.pmmp.io/shield.state/PeacefulSpawn"></a>
 
-[![](https://poggit.pmmp.io/shield.api/PeacefulSpawn)](https://poggit.pmmp.io/p/PeacefulSpawn)
-<a href="https://poggit.pmmp.io/p/PeacefulSpawn"><img src="https://poggit.pmmp.io/shield.api/PeacefulSpawn"></a>
-
 This is a rewrite of the old peacefulspawn that is now outdated. I dont know if i am going to be constantly on updating this and if any issues or if any coding is a problem let me know. i am only a beginner at coding.
 
 ## Installing:
