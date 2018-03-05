@@ -20,10 +20,10 @@ class Main extends PluginBase implements Listener {
             if($issuer->hasPermission("peacefulspawn") || $issuer->hasPermission("peacefulspawn.toggle")) {
                 $this->enabled = !$this->enabled;
                 if($this->enabled) {
-                    $issuer->sendMessage("[PeacefulSpawn] Spawn protection enabled!");
+                    $issuer->sendMessage("[PeacefulSpawn] §2Spawn protection enabled!");
                     $this->getLogger()->info(TextFormat::GREEN . "Spawn protection enabled!");
                 } else {
-                    $issuer->sendMessage("[PeacefulSpawn] Spawn protection disabled!");
+                    $issuer->sendMessage("[PeacefulSpawn] §2Spawn protection disabled!");
                     $this->getLogger()->info(TextFormat::GREEN . "Spawn protection disabled!");
                 }
             } else {
