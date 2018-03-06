@@ -4,7 +4,7 @@ version: 1.1
 api:
  - 3.0.0-ALPHA11
 load: POSTWORLD
-author: "brexmania123"
+author: "BrexMania123"
 website: "https://github.com/brexmania123/PeacefulSpawn"
 commands:
   ps:
