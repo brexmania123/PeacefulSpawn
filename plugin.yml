@@ -2,7 +2,7 @@ name: PeacefulSpawn
 main: brexmania123\PeacefulSpawn\Main
 version: 1.2
 api:
- - 3.0.0-ALPHA12
+ - [3.0.0]
 load: POSTWORLD
 author: "BrexMania123"
 website: "https://github.com/brexmania123/PeacefulSpawn"
